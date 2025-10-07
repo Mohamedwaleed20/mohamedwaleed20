@@ -36,14 +36,6 @@ I enjoy working in collaborative teams and always eager to learn more.
 
 ---
 
-## 🎓 Education & Experience
-
-- **[Your University / Institution Name]** — Degree / Field (Year start – Year end)  
-- **[Internships / Work Experience if any]** — Role, Company, Duration  
-- (Add your projects or volunteer work here if you want later)  
-
----
-
 ## 🌐 Languages
 
 | Language | Proficiency |
