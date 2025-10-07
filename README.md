@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=""D:\posters\35211d4a-8f2a-4a5a-b541-a18f793da5ab.jpg"" alt="Developer at Work" width="70%" />
+  <img src="35211d4a-8f2a-4a5a-b541-a18f793da5ab.jpg" alt="Developer at Work" width="70%" />
 </div>
 
 ---
